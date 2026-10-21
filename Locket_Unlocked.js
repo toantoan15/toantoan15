@@ -55,7 +55,7 @@ if (ua.includes("Locket")) {
             title: "Lên Locket Gold rồi đó 😎",
             feature_set: [
                 {
-                    title: "Nhớ follow kênh tiktok @duyvinh.09 ✨",
+                    title: "Nhớ follow kênh tiktok @_trtoan15_ ✨",
                     body: "Một follow của bạn, một niềm vui của mình 💛",
                     imageURL: "https://i.ibb.co/bj2Y3d0y/L-n-Gold-R-i-1.png"
                 }
@@ -265,7 +265,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",
-            url: "https://https://i.ibb.co/MxcWWNwX/IMG-8183.jpg",
+            url: "https://i.ibb.co/MxcWWNwX/IMG-8183.jpg",
             // url: "https://i.ibb.co/RTm5P1n9/kitty-1.png",
             // url: "https://i.ibb.co/JjLZ3cvD/khung-ins.png",
             use_local_time_zone: true,
